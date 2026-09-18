@@ -1,0 +1,7 @@
+{
+  "name": "Photo Master",
+  "description": "Pro photo editor with filters (B&W, Sepia, Vintage, Blur, Sharpen, Invert, Brightness, Contrast), adjust sliders, crop/rotate/flip tools, text overlays, stickers, blur background, gallery export, and sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

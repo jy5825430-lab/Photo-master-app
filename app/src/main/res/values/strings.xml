@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photo Master</string>
+    <string name="tab_filters">Filters</string>
+    <string name="tab_adjust">Adjust</string>
+    <string name="tab_tools">Tools</string>
+    <string name="tab_text">Text</string>
+    <string name="tab_stickers">Stickers</string>
+    <string name="tab_blur_bg">Blur BG</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_compare">Compare</string>
+    <string name="btn_pick_photo">Select Photo</string>
+    <string name="btn_sample_photo">Try Demo Photo</string>
+    <string name="btn_browse_gallery">Open Gallery Picker</string>
+    <string name="gallery_title">Photo Collection</string>
+    <string name="gallery_subtitle">Fast Coil cached thumbnails</string>
+    <string name="gallery_cache_info">Coil L1 Memory &amp; L2 Disk Cache Active</string>
+    <string name="gallery_empty">No images found in collection</string>
+</resources>
