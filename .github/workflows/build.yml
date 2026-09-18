@@ -9,7 +9,7 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
-      - name: Make gradlew executable
+      - name: Make executable
         run: chmod +x gradlew
       - name: Build APK
         run:./gradlew assembleDebug
